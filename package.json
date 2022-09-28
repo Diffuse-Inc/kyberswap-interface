@@ -2,7 +2,8 @@
   "name": "@KyberSwap/interface",
   "description": "KyberSwap Interface",
   "homepage": "/",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "devDependencies": {
     "@ethersproject/experimental": "^5.4.0",
     "@lingui/cli": "^3.14.0",
